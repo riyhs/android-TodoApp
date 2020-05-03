@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="delete">Selesai</string>
+    <string name="edit">Edit</string>
+    <string name="textview">DUMMY</string>
+    <string name="new_todo">Todo Baru</string>
+    <string name="add">Tambah</string>
+    <string name="edit_todo">Edit Todo</string>
+</resources>
